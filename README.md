@@ -19,6 +19,6 @@ Hands-on repository documenting technical labs, enterprise network security conc
 
 ```text
 ├── fortinet/              # Enterprise vendor architecture & certifications (NSE 1-3)
-├── tryhackme/            # Structured blue-team, networking, and OS labs
 ├── hackthebox/           # Practical machine exploitation and CTF write-ups
-└── scripts/              # Python & Bash automation tools for security workflows
+├── scripts/              # Python & Bash automation tools for security workflows
+└── tryhackme/            # Structured blue-team, networking, and OS labs
